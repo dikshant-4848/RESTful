@@ -1,0 +1,20 @@
+h1{
+  color: rgba(216, 40, 40, 0.708);
+  align-items: center;
+   
+padding-left: 15px;
+  
+ 
+}
+
+.post {
+  background-color: rgba(220, 188, 146, 0.799);
+ width: 60%;
+ height: 20%;
+ border-radius: 10px;
+ padding-left: 10px;
+}
+
+.user {
+  font-style: italic;
+}
